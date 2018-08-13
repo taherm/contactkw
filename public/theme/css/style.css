@@ -292,7 +292,7 @@ Home
 }
 
 .fixed-phone{
-	position:absolute;
+	position:fixed;
 	width: 50%;
 	bottom:0;
 	right:0;
@@ -305,6 +305,10 @@ Home
 	top:93px;
 	left:165px;
 	z-index:99;
+}
+
+#download{
+	background:#45c8b3;
 }
 
 .home-cta{
